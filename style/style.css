@@ -1,0 +1,42 @@
+body {
+  height: 50em;
+  width: 100vw;
+  background-color: #5C636E;
+}
+
+header {
+  height: 10em;
+  width: 100%;
+  margin-left: -2em;
+  padding: 2em;
+  background-color: #393E46;
+}
+
+.container {
+  height: 35em;
+  width: 30em;
+  margin: 2em;
+  padding: 1em;
+  background-color: #F96D00;
+  border-radius: 2%;
+}
+
+.form-group {
+  padding: 1em;
+  margin: 1em;
+}
+
+.form-control {
+  display: flex;
+  align-items: center;
+  height: 1.7em;
+  width: 30em;
+}
+
+footer {
+  height: 40em;
+  width: 100%;
+  padding: auto;
+  margin-left: -10px;
+  background-color: #393E46;
+}/*# sourceMappingURL=Style.css.map */
